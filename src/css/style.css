@@ -1,0 +1,83 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+.navbar {
+    min-height: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.navbar-brand {
+    font-family: 'Ms Madi', cursive;
+    font-size: 40px;
+}
+
+section {
+    text-align:center;
+    padding: 60px;
+    text-align: center;
+}
+
+.bg-gray {
+    background-color: rgba(233, 233, 233, 0.89);
+}
+
+#definicion-ingSoft {
+    color:rgb(109, 109, 109)
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#seccion-procesos {
+    padding: 80px;
+}
+
+.proceso {
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+}
+
+.ms-madi {
+    font-family: 'Ms Madi', cursive;
+    font-size: 50px; 
+}
+
+hr {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+    size: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+
+.card {
+    background-color:white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.form-control {
+    background-color: transparent;
+}
+
+footer {
+    color: white;
+    padding: 80px;
+}
+
+ul {
+    list-style: none;
+}
+
+.btn-es {
+    background-color:#04d9bf;
+    height: "45px";
+}
